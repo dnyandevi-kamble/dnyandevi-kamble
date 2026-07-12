@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Dnyandevi Kamble 👋
 
-<!--
-**dnyandevi-kamble/dnyandevi-kamble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst and Data Science Enthusiast.
 
-Here are some ideas to get you started:
+## Skills
+- Python
+- SQL
+- Power BI
+- Excel
+- Machine Learning
+- Data Visualization
+- Data Cleaning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- Retail Sales Performance Analysis
+- Telecom Customer Retention BI Dashboard
+- Authentext AI
+
+## Connect with me
+LinkedIn: https://www.linkedin.com/in/dnyandevi-kamble
+GitHub: https://github.com/dnyandevi-kamble
